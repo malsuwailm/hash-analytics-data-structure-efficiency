@@ -52,14 +52,13 @@ The output file contains the following information:
 
 ## Example:
 
-Runtime: 0.1234567ms
-
-Hash table size: 113
-Bucket Size: 1
-Number of collisions: 2
-Number of comparisons: 3
-Number of items not inserted: 0
-Load factor: 0.1
+- Runtime: 0.1234567ms
+- Hash table size: 113
+- Bucket Size: 1
+- Number of collisions: 2
+- Number of comparisons: 3
+- Number of items not inserted: 0
+- Load factor: 0.1
 
 Resulting hash table:
 [ 12345 ] [ 67890 ] [ 24680 ] [ 13579 ] [None  ]
