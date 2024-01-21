@@ -1,7 +1,8 @@
 # Lab Hashing
 
 This program demonstrates various hashing schemes including linear probing, quadratic probing, and chaining, on a given dataset.
-Requirements
+
+## Requirements
 
 Python 3.6 or higher
 
