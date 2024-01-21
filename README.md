@@ -54,7 +54,6 @@ The output file contains the following information:
 
 Runtime: 0.1234567ms
 
-=========================
 Hash table size: 113
 Bucket Size: 1
 Number of collisions: 2
